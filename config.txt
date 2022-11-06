@@ -1,0 +1,6 @@
+101 router 2
+102 system 30
+103 hub 20
+104 router 30
+105 router 44
+107 router 45
